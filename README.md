@@ -14,7 +14,7 @@ Heureusement vous pouvez compter sur vos compétences en HTML / CSS et votre com
 
 ## Les règles
 
-- Durée: 3h
+- Durée: 2h30
 - Livrable: 1 fichier **index.html** avec la page web et le style intégré
 - Utiliser le framework [Bulma](https://bulma.io/)
 - Livraison par tiinyhost/codesandbox/github/email. Comptez 10 minutes dans votre temps pour la livraison. Envoyez moi l'URL générée bruno@buddyweb.fr
@@ -24,7 +24,7 @@ Heureusement vous pouvez compter sur vos compétences en HTML / CSS et votre com
 - [Le zonning de la landing page]([https://github.com/brunobuddy/iae-landing/blob/master/landing.pdf](https://github.com/brunobuddy/iae-landing-2024/blob/master/landing.webp))
 - [JSBIN - Editeur de code en ligne](https://jsbin.com/?html,output)
 - [Code Sandbox - Editeur de code en ligne](https://codesandbox.io/)
-- [Framework CSS Bulma](https://bulma.io/documentation/overview/start/) ou [autres alternatives pour les plus courageux/euses](https://github.com/troxler/awesome-css-frameworks)
+- [Framework CSS Bulma](https://bulma.io/documentation/overview/start/)
 - [Pexels - Banque d'images libres de droit](https://www.pexels.com/)
 - [Documentation HTML de MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Documentation CSS de MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
