@@ -122,7 +122,7 @@ p {
 ## Livraison sur Tiinyhost (recommandée)
 - Copier coller le contenu HTML CSS dans un fichier qu'on sauvegarde avec le nom `index.html` (si besoin télécharger l'éditeur de texte **SublimeText**)
 - Aller sur https://tiiny.host/ et créer un compte et uploadez le fichier
-- Enoyez moi l'URL publique
+- Enoyez moi l'URL publique par email à bruno@buddyweb.fr
 
 ![image](https://github.com/user-attachments/assets/5bde381f-e45b-4bb7-9fb9-5b5b955d61fb)
 
@@ -154,3 +154,8 @@ Voici les étapes pour déployer votre projet achevé:
 ## Livraison par email
 
 - Intégrez l'ensemble du contenu dans un fichier `index.html` et envoyez le moi par email à bruno@buddyweb.fr
+
+----
+
+  ![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU5ZTRwbnFqYWpnY2Qza3pjdHVmeWY0MmxvdGR6enppM216ODJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fZMzs7sIisUt0Tm/giphy.webp)
+
