@@ -8,7 +8,7 @@ L'objectif est de créér et de déployer une **landing page** pour une entrepri
 
 Vous êtes développeur/euse web pour l'entreprise qui est née de votre hackathon. La team marketing (dont vous ne faites évidemment pas partie) vous demande de créer une **landing page** de votre produit / service.
 
-Heureusement vous pouvez compter sur vos compétences en HTML / CSS et votre compréhension des frameworks CSS. De plus, votre web designer vous a transmis [un zonning pour votre landing page](https://github.com/brunobuddy/iae-landing/blob/master/landing.pdf), vous n'avez plus qu'à le développer.
+Heureusement vous pouvez compter sur vos compétences en HTML / CSS et votre compréhension des frameworks CSS. De plus, votre web designer vous a transmis [un zonning pour votre landing page]([https://github.com/brunobuddy/iae-landing/blob/master/landing.pdf](https://github.com/brunobuddy/iae-landing-2024/blob/master/landing.webp)), vous n'avez plus qu'à le développer.
 
 > Ces travaux sont focalisés sur la partie développement web. Le contenu (images et texte) peut être factice. Néanmoins, c'est toujours plus parlant si vous y mettez des contenus plus ou moins réels (sans vous prendre la tête) ou que vous piochez des images dans votre thème.
 
@@ -16,11 +16,13 @@ Heureusement vous pouvez compter sur vos compétences en HTML / CSS et votre com
 
 - Durée: 3h
 - Livrable: 1 fichier **index.html** avec la page web et le style intégré
+- Utiliser le framework [Bulma](https://bulma.io/)
 - Livraison par tiinyhost/codesandbox/github/email. Comptez 10 minutes dans votre temps pour la livraison. Envoyez moi l'URL générée bruno@buddyweb.fr
 
 ## Resources
 
-- [Le zonning de la landing page](https://github.com/brunobuddy/iae-landing/blob/master/landing.pdf)
+- [Le zonning de la landing page]([https://github.com/brunobuddy/iae-landing/blob/master/landing.pdf](https://github.com/brunobuddy/iae-landing-2024/blob/master/landing.webp))
+- [JSBIN - Editeur de code en ligne](https://jsbin.com/?html,output)
 - [Code Sandbox - Editeur de code en ligne](https://codesandbox.io/)
 - [Framework CSS Bulma](https://bulma.io/documentation/overview/start/) ou [autres alternatives pour les plus courageux/euses](https://github.com/troxler/awesome-css-frameworks)
 - [Pexels - Banque d'images libres de droit](https://www.pexels.com/)
