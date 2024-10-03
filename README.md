@@ -106,7 +106,7 @@ p {
 Voici les étapes pour déployer votre projet achevé:
 
 - Créer un compte [Github](https://github.com/) si vous n'en avez pas déjà un
-- Créer un nouveau _repository_ et appellez le **landing-page-COMPANY** en remplaçant "COMPANY" par le nom de votre projet de création d'entreprise. L'option **public** doit être cochée
+- Créer un nouveau _repository_ et appellez le **landing-page**. L'option **public** doit être cochée
 - Cliquez sur le petit lien "create a new file" (il est vraiment petit)
 - Dans l'éditeur, nommez votre fichier index.html et collez votre code dedans puis cliquez sur **commit new file**
 - Ensuite allez dans **settings** puis **pages**. Dans **branch** selectionnez "master" puis cliquez sur **save**
