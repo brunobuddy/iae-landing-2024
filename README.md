@@ -61,7 +61,7 @@ En fonction de votre numéro dans la fiche d'appel vous allez adapter le site we
 - [Le zonning de la landing page](https://github.com/brunobuddy/iae-landing-2024/blob/master/landing.webp)
 - [JSBIN - Editeur de code en ligne](https://jsbin.com/?html,output)
 - [Code Sandbox - Editeur de code en ligne](https://codesandbox.io/)
-- [Framework CSS Bulma](https://bulma.io/documentation/overview/start/)
+- [Framework CSS Bulma](https://bulma.io/)
 - [Pexels - Banque d'images libres de droit](https://www.pexels.com/)
 - [Documentation HTML de MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Documentation CSS de MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
